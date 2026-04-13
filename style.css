@@ -26,6 +26,5 @@ tr:nth-child(even) {
 tr:hover {
     background-color: #cce5ff;}
 
-/* First column styling */
 td:first-child {
     font-weight: bold;}
