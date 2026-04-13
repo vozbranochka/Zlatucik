@@ -20,12 +20,9 @@ th {
     background-color: #333;
     color: white;
 p}
-
-/* Zebra striping */
 tr:nth-child(even) {
     background-color: #e9ecef;}
 
-/* Hover effect (pseudo-class) */
 tr:hover {
     background-color: #cce5ff;}
 
